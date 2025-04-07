@@ -1,2 +1,10 @@
-# MAC015-ResMat-Atividade1
-Primeira atividade da disciplina de Resistência dos Materiais (MAC015), disciplina cursada durante o 4º período. Calculo de reações de apoio e análise e cálculo de treliças planas isostáticas.
+# Atividade 01 - ResMat
+---
+Primeira atividade desenvolvida para a disciplina de Resistência dos materiais (MAC015) durante o 4º período da graduação.
+
+<h2>Objetivos:</h2>
+<li> Desenvolver uma rotina computacional para determinar a intensidade e a direção de n forças coplanares concorrentes em um nó.
+<li> Seja uma viga biapoiada genérica submetida a uma série de carregamento, desenvolver um programa computacional para calcular suas reações de apoio.
+<li> Desenvolver um programa para análise e cálculo de treliças planas isostáticas.
+
+<h2>*Relatório em anexo.</h2>
